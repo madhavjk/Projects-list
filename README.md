@@ -1,6 +1,6 @@
 # Projects-list
 
-## Computer Vis Project:
+## Computer Vision Project:
 
 Traffic surveillance system.
 
