@@ -6,7 +6,7 @@ Traffic surveillance system.
 
 Object identification.
 
-Object tracking.
+Object trac.
 
 Object classification.
 
