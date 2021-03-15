@@ -12,7 +12,7 @@ Object classification.
 
 Tensorflow object detection.
 
-Image to  processing.
+Image to text processing.
 
 Speech to speech analysis.
 
