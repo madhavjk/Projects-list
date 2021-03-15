@@ -1,4 +1,4 @@
-# Projects-t
+# Projects-list
 
 ## Computer Vision Project:
 
