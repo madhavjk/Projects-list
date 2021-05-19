@@ -2,7 +2,7 @@
 
 ## Computer Vision Project:
 
-Traffic surveillance syst.
+Traffic surveillance system.
 
 Object identification.
 
